@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Gidon Lehmann",
+    "label": "Purchasing Manager",
+    "picture": "",
+    "email": "gadi.lehmann@gmail.com",
+    "phone": "(052) 876-2484",
+    "website": "",
+    "summary": "Experienced in the fields of trade, purchasing and sales. I like to \"get things done\", and am satisfied when I feel I am trusted by my manager and colleagues. Finishing an exciting adventure in a small family company, I'm now looking to join a larger team and take on larger missions.",
+    "location": {
+      "address": "46 Harakefet St",
+      "postalCode": "",
+      "city": "Pardesiya",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "gadi-lehmann-24052680",
+        "url": "https://www.linkedin.com/in/gadi-lehmann-24052680"
+      },
+      {
+        "network": "Facebook",
+        "username": "gadile",
+        "url": "https://www.facebook.com/gadile"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Refrakem Refractories and Chemicals Ltd.",
+      "position": "Sales Manager",
+      "website": "http://www.refrakem.com/",
+      "startDate": "2011-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Refrakem is a small trading company that represents overseas large suppliers and act as a local sales representative. The company works for commissions as well as a product distributor. After the CEO's retirement, I performed in his place.",
+      "highlights": [
+        "responsible for most of the activities of the company, including sales, communication with suppliers and customers, meetings, import and logistics",
+        "initiated new lines of business and maintained some of the contacts with vendors and customers",
+        "worked with: steel industry, water jet cutting tools, water companies, refractories and more"
+      ]
+    },
+    {
+      "company": "IDF",
+      "position": "Logistics Brigade",
+      "website": "",
+      "startDate": "2008-01-01",
+      "endDate": "2011-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Dror Highschool",
+      "area": "Full \"Bagrut\"",
+      "studyType": "",
+      "startDate": "2002-01-01",
+      "endDate": "2007-01-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Import Management",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Bargaining",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Communicative abilities",
+      "level": "Master",
+      "keywords": []
+    },
+    {
+      "name": "Sales Management",
+      "level": "Master",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent Reading and Writing"
+    },
+    {
+      "language": "Hebrew",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Computer Programming",
+      "keywords": [
+        "Websites",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Basketball",
+      "keywords": [
+        "Cleveland"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Will be handed upon request",
+      "reference": ""
+    }
+  ]
+}
